@@ -1,0 +1,95 @@
+.button {
+    display: inline-block;
+    background: #4B99AD;
+    padding: 8px 15px 8px 15px;
+    border: none;
+    color: #fff;
+    border-radius: 2px;
+    padding: 0.48rem 0.8rem !important;
+    line-height: 1.4 !important;
+    position: relative;
+    text-transform: uppercase;
+}
+.logout{
+	
+	margin-top: -45px;
+	background: #4B99AD;
+	text-transform:uppercase;
+	border: none;
+    color: #fff;
+    border-radius: 2px;
+    padding: 0.48rem 0.8rem !important;
+    line-height: 1.4 !important;
+}	
+.add{
+	
+	margin-top: -500px;
+	margin-left: 200px;
+	background: #4B99AD;
+	text-transform:uppercase;
+	border: none;
+    color: #fff;
+    border-radius: 2px;
+    padding: 0.48rem 0.8rem !important;
+    line-height: 1.4 !important;
+}	
+.check{
+	margin-top: -165px;
+	margin-left: 150px;
+	background: #4B99AD;
+	text-transform:uppercase;
+	border: none;
+    color: #fff;
+    border-radius: 2px;
+    padding: 0.48rem 0.8rem !important;
+    line-height: 1.4 !important;
+}
+.checka{
+	margin-top: -600px;
+	margin-left: 200px;
+	background: #4B99AD;
+	text-transform:uppercase;
+	border: none;
+    color: #fff;
+    border-radius: 2px;
+    padding: 0.48rem 0.8rem !important;
+    line-height: 1.4 !important;
+}
+label,input  {
+ display:block;
+ margin-bottom: 5px;
+ }
+
+
+.form-style input[type=text], .form-style input[type=password] {
+ height: 25px;
+ border-radius: 4px;
+ border:1px solid #BEBEBE;
+}
+.form-style, h2 {
+    margin:10px auto;
+    max-width: 50%;
+    padding: 10px 12px 10px 20px;
+}
+.form-style input[type=submit]:hover{
+	background: #4691A4;
+    box-shadow:none;
+    -moz-box-shadow:none;
+    -webkit-box-shadow:none;
+}
+
+.title{
+	font: 20px "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-left: -230px;
+}
+
+#myInput {
+  
+  background-position: 50px 50px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 43px;
+  padding: 100px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}

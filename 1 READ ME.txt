@@ -1,0 +1,18 @@
+
+bring up your xampp application and start up the Apache and MySQL action.
+extract the LibraryApplication folder in your xampp/htdocs file.
+import the dump 'library' into your DBMS.
+to run the Library Application open your web browser and type localhost/LibraryAplication/index.php
+
+
+to login in the system as administrator
+	username: admin
+	password: admin
+
+examples of users already registered
+	marcos
+		username: marcos
+		password: marcos123
+	jacob
+		username: jacob
+		password: jacob123
